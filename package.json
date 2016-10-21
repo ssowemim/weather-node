@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ssowemim/weather-node#readme",
   "dependencies": {
-    "request": "^2.75.0"
+    "request": "^2.75.0",
+    "yargs": "^6.3.0"
   }
 }
